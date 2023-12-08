@@ -1,0 +1,6 @@
+@MarvelLearningAPI_HostAddress = http://localhost:5124
+
+GET {{MarvelLearningAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
